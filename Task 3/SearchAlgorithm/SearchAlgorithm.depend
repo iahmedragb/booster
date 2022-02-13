@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1642834227 source:c:\users\ahmed\desktop\sprints\task 2\searchalgorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1642200308 c:\users\ahmed\desktop\sprints\task 2\searchalgorithm\mysearch.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+
+1642202406 source:c:\users\ahmed\desktop\sprints\task 2\searchalgorithm\mysearch.c
+	"Mysearch.h"
+

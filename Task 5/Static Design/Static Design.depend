@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1643228569 source:c:\users\ahmed\desktop\sprints\task by ahmed ragab\task 5\static design\app.c
+	"App.h"
+
+1643230551 c:\users\ahmed\desktop\sprints\task by ahmed ragab\task 5\static design\app.h
+	"buttons.h"
+	"motor.h"
+
+1643229232 source:c:\users\ahmed\desktop\sprints\task by ahmed ragab\task 5\static design\main.c
+	"App.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1643230421 c:\users\ahmed\desktop\sprints\task by ahmed ragab\task 5\static design\motor.h
+	"PWM.h"
+	"TIMERS.h"
+
+1643230241 c:\users\ahmed\desktop\sprints\task by ahmed ragab\task 5\static design\dio.h
+
+1643230421 c:\users\ahmed\desktop\sprints\task by ahmed ragab\task 5\static design\buttons.h
+	"DIO.h"
+
+1643230327 c:\users\ahmed\desktop\sprints\task by ahmed ragab\task 5\static design\timers.h
+
+1643230112 source:c:\users\ahmed\desktop\sprints\task by ahmed ragab\task 5\static design\dio.c
+	"DIO.h"
+
+1643230457 source:c:\users\ahmed\desktop\sprints\task by ahmed ragab\task 5\static design\motor.c
+	"motor.h"
+
+1643230241 source:c:\users\ahmed\desktop\sprints\task by ahmed ragab\task 5\static design\buttons.c
+	"buttons.h"
+
+1643230324 source:c:\users\ahmed\desktop\sprints\task by ahmed ragab\task 5\static design\timers.c
+	"TIMERS.h"
+
+1643230172 source:c:\users\ahmed\desktop\sprints\task by ahmed ragab\task 5\static design\pwm.c
+	"PWM.h"
+
+1643230241 c:\users\ahmed\desktop\sprints\task by ahmed ragab\task 5\static design\pwm.h
+

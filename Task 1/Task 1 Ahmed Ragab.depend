@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1638554445 source:c:\users\ahmed\desktop\es 1 booster\task 1 ahmed ragab\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1642831808 source:c:\users\ahmed\desktop\sprints\task 1 ahmed ragab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1642833017 source:c:\users\ahmed\desktop\sprints\task by ahmed ragab\task 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+

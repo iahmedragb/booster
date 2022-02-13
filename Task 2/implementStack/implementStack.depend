@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1642832474 source:c:\users\ahmed\desktop\sprints\task 2\implementstack\main.c
+	"Mystack.h"
+
+1642832699 c:\users\ahmed\desktop\sprints\task 2\implementstack\mystack.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+
+1642832457 source:c:\users\ahmed\desktop\sprints\task 2\implementstack\mystack.c
+	"Mystack.h"
+

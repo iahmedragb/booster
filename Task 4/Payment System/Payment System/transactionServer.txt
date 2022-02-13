@@ -1,0 +1,12 @@
+           6 Transactions
+======================================
+
+          |   PAN   |   |Transaction Amount|    | Status |
+Log[  1] : 456789123       100.000              APPROVED
+Log[  2] : 456789123       20.500              APPROVED
+Log[  3] : 456789123       20.500              DECLINED
+Log[  4] : 456789123       2000.000              DECLINED
+Log[  5] : 456789124       20.500              DECLINED
+Log[  6] : 456789124       6000.000              DECLINED
+
+No More Logs

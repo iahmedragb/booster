@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1643282930 source:c:\users\ahmed\desktop\sprints\task by ahmed ragab\task 4\payment system\payment system\app.c
+	"App.h"
+
+1643282435 c:\users\ahmed\desktop\sprints\task by ahmed ragab\task 4\payment system\payment system\app.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<conio.h>
+
+1643282951 source:c:\users\ahmed\desktop\sprints\task by ahmed ragab\task 4\payment system\payment system\main.c
+	"App.h"
+
